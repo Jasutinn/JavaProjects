@@ -20,3 +20,5 @@ public class Pacman extends JFrame{
 	}
 
 }
+
+// © 2024 Justine Dela Torre (Jasutinn)
